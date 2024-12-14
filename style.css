@@ -1,0 +1,33 @@
+body{
+    background-color: white;
+    color: black;
+    box-sizing: content-box;
+    padding: auto;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    display: flex;
+  
+
+}
+
+.Practica1{
+    background-color:rgb(39, 72, 148);
+    width: 40%;
+    
+
+   
+   
+ 
+
+}
+
+.h1h{
+    width: auto;
+   color: white;
+   padding: 25px;
+   text-align: justify;
+
+
+}
